@@ -3,3 +3,6 @@ Análisis y visualización de datos con R de historial de actividad en Netflix d
 
 ### *English version*
 Explore your activity on Netflix with R: How to analyze and visualize your viewing history. Visualization of most viewed TV series on "binge-watching" and activity frequency by days, months and years. Medium article: https://towardsdatascience.com/explore-your-activity-on-netflix-with-r-how-to-analyze-and-visualize-your-viewing-history-e85792410706
+
+#### *Project preview*
+https://www.youtube.com/watch?v=SG2pDkdu5kE
